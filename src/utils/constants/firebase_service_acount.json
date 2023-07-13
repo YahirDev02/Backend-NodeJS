@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "webintegralpacheco",
+  "private_key_id": "0d64af0045d469865272db121608a77d478fda77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL/oFOZKpUhF8r\nIgH9y2X8hJZRHmjJytPlx53vJFBTDbMhXKABge851m+hNIzqUNfxSBfVJ6xrVEYQ\nSoy1wtbfCPPWrnimfaqtdOfj95cdi+WIlhB4MvbVANx1ZmiFPSaxQhl1wSTbv/3q\nCJ4bnK60aC2WYxiiRoC1BfnZBQjUnrgBUnAUGuaNPQ5wU0ai8rasNxgTGAWE59eK\nS5K7YAra2ev8YOeePITb5gWGqgpigswIQRiTIeSRL7zy7JGgEfL63mJz4TbwikUg\niRPnSa93M9M5dOco9AaK3W3nSoO6hr2reA5+V0d+QUibY+WlkOcVbur7gmzB8T0i\nbZVxtgv7AgMBAAECggEAAhsVT+UejW4P9x8tzXO8zUDxjY8iRtc02j6ypblu+mrS\nUCRFy2n6l8xA42E7LbB25tWSGxh1OPsLulIPvjYRNpxoT48hF4AnVVBSDVWM3Noq\no641hfI611TmoNvVP1QfpIyVZM3mI9Jg63pLFdnia83qc9IGevgLxLerz9wfcdhR\nfRvV8qwGs5sZJBc8/dLRlF6Q7JXzQFxMEkLRwKNMoJBCaovkJnil7tzbchwwYT7f\nP9mGkFAx3W7ggImNEqvSyHcKe0uttyXBawJuHAnZD44NoI5keGTyqguL33mdTaAO\nmfUUZ1rqb9fFw6kUwY3MQGwNI2pqqCpEkkbpEo7c8QKBgQD8Klv1tUvlON8HBA0Y\nj9CBU16nr8RTPuydXkf1On5PJ6edl8MGNcr534TaIS/MNGMwmVGzJcgfmIrDnoxz\nxT37DSAxQgy5Nf1Mz51DvhMKDWxmoC1byuVQDGeUV5IlPuhsAg2wQV94JalbXV3z\nwWGtOb3Ps3T8++cz9NI5JyruHwKBgQDPGJ9dLjkx+++7A3PGv0eOwiVX0F/oIMow\no9mgk6SXJXUhy4F+2JZGOMjQptIWC1q6yWs8lKgXXXUKcKLSxGHRQyEsw/Pk+q5f\nyfLCM6phU87xfI2eY2BJVk9In+013PiIRBWMelPmhSBCxuJ00VVhAmnQesSERB2s\nUqXDiZ8upQKBgBrTds0A6H4OOsvIRoxiYFAhymQUctJYU1u6d/VCr8VD9rTxPDIg\n7uL+QGfkN+2FdTfqV6KzVkLmO3zsFQ0L4rgegVo8KJZbhALz40sdoXDkVK/mQm0N\nfK+zYiGJ32ZO9vLmlQY3Lizd9NJfcGtKG1YOWn8KHFv9gG8qkGK8I/kJAoGBAJAT\nlztiXxQxLBU1T6Sjior88rHnG/IIbeHs/AjE7qrgul6qkArJb7Km6r6OcHY5rANr\nAZoB6fdnY3fB6OUtDshhJYFZSiKxbALkImmNPCm9/qjueDAK/v/Gdh4WdRcWBin3\nA+7ZY+lqEImkiAOxZu64mRkbcAB8yxAJ55zj78SpAoGBAPQMFx69qMxXc7+Vf7wu\nJUBQpMmqas5H+7MX9eY8VScznb40U07AcJoJ3WwaZBv4K/hc+oaxyTtnUxeX/D6r\nCZEZLN+PdSWcAsIrmboNB3cKHdBKqp8RXxZ5E/Two7L9bMl5GIpfXICV9FxdBl49\n8VKTY9HrG+StkF1Zi0eyY+UZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d9b6n@webintegralpacheco.iam.gserviceaccount.com",
+  "client_id": "117791352945653719600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d9b6n%40webintegralpacheco.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
