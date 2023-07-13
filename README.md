@@ -1,1 +1,1 @@
-# Activities for Pacheco
+# Activities for the teacher Pacheco
